@@ -1,7 +1,7 @@
 # Jogo-da-adivinhacao
-Jogo da Adivinhação!!!
+Adivilavra - Adivinhe a palavra!!!
 
-Contexto: Um jogo onde o jogador terá que adivinhar a palavra escolhida aleatóriamente, para finalmente pegar e comer a gloriosa maçã dourada encantada.
+Contexto: Um jogo onde o jogador terá que adivinhar todas as palavras escolhidas até 2 minutos, lendo as dicas e digitando letras para solucionar o mistério.
 
 Índices:
 -Sobre o jogo:
@@ -14,22 +14,22 @@ Contexto: Um jogo onde o jogador terá que adivinhar a palavra escolhida aleató
 
 -SOBRE O JOGO:
 -Qual o objetivo do jogo?
-= Adivinhar a palavra para pegar a maçã.
+= Adivinhar as palavras de acordo pela dica em um limite de tempo.
 
 -Qual a mecânica principal?
-= Escrever uma letra no seu teclado ou pelo mouse para descobrir seu posicionamento afim de formar a palavra secreta.
+= Escrever uma letra no seu teclado para descobrir seu posicionamento afim de formar a palavra secreta.
 
 -Para qual publico ele é direcionado?
-=É feito para qualquer público mas o publico principal seria crianças para aumentas seu vocabulário
+=É feito para qualquer público mas o publico principal seria crianças para aumentas seu vocabulário.
 
 -Qual a motivação para cria-lo?
-= Entreterimento em maior parte do tempo, mas também para auxíliar as crianças em seu desenvolvimento da fala e aumentar seu vocabulário
+= Entreter em maior parte do tempo, mas também para auxíliar as crianças em seu desenvolvimento da fala e aumentar seu vocabulário.
 
--História doas persoangens?
-=  Gragas, um fazendeiro em busa de fazer uma torta de maça a melhor possivel, vai em busca da melhor maça de todos os tempos, a maça encantada dourada, para isso ele sobe em uma árvore super alta e meio bamba 
+-História dos personagens?
+= Não existe ainda, iremos implementar uma história depois.
 
 -Cenário
-= Uma floresta/fazenda.
+= Não possui um específico.
 
 TECNOLOGIA:
 -Html
@@ -38,22 +38,25 @@ TECNOLOGIA:
 
 
 -COMO JOGAR
--Use o mouse/teclado para  esccolher as letras e adivinhar a palavra, cada erro é uma vida a menos(maxímo de 5 a 6 erros)
+-Use o teclado para escolher as letras e adivinhar a palavra, cada erro é uma tentativa a menos(maxímo de 5 letras erradas)
 
 -COMO EXECUTAR
--Baixe o arquivo index, css e js, depois abra-os em um navegador.
+-Baixe o arquivo index, css e js, depois abra o html em um navegador.
 
--FUNCIONALIDADES: 
-- Sons de acerto e erro
-- Tela de vitória e derrota
-- Marcação de pontos através das palavras
+-FUNCIONALIDADES:
+- Tela de vitória e derrota de acordo com quantos pontos o jogador fez.
+- Marcação de pontos através das palavras.
+- Corrida contra o tempo.
 
 -MELHORIAS FUTURAS:
 -Adicionar níveis de dificuldades posteriores
 -Melhorar as animações
--Compatibilade total com mobile e console
--Ranking com pontualções salvas
--Adicionar mais personagens jogaveis, objetivos diferentes, mais histórias e mais cenários.
+-Compatibilidade com o mouse
+-Ranking com pontulções salvas.
+-Adicionar outros modos de jogo, objetivos diferentes, mais histórias e mais cenários.
+-Mostrar quantas palavras tu acertou no final do jogo.
+-Adicionar sprites.
+-Sons e áudios.
 
 -AUTORES:
 -Lorenzo Emiliano Correia Lima - @Authentic CPU
@@ -61,6 +64,9 @@ TECNOLOGIA:
 
 -Leonardo dos Santos Vilella - @tiozinhodomine
 +55 51 98335-5979
+
+
+Fotos: 
 
 
   
