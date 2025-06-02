@@ -1,5 +1,5 @@
 # Jogo-da-adivinhacao
-Jogo da A!!!
+Jogo da Adivinhação!!!
 
 Contexto: Um jogo onde o jogador terá que adivinhar a palavra escolhida aleatóriamente, para finalmente pegar e comer a gloriosa maçã dourada encantada.
 
